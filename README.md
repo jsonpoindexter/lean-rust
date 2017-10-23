@@ -1,1 +1,1 @@
-# lear-rust
+# lean-rust
