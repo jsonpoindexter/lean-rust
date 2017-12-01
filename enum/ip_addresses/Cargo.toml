@@ -1,0 +1,6 @@
+[package]
+name = "ip_addresses"
+version = "0.1.0"
+authors = ["Jason Poindexter <jason@launchbadge.com>"]
+
+[dependencies]

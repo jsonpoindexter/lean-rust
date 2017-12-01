@@ -1,0 +1,6 @@
+[package]
+name = "steamid"
+version = "0.1.0"
+authors = ["Jason Poindexter <poindexter.json@gmail.com>"]
+
+[dependencies]

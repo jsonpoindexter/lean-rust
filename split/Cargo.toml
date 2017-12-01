@@ -1,0 +1,8 @@
+[package]
+name = "split"
+version = "0.1.0"
+authors = ["Jason Poindexter <jason@launchbadge.com>"]
+
+[dependencies]
+maplit = "1"
+hyper = "0.11"
